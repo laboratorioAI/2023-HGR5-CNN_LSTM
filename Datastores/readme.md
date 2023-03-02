@@ -1,0 +1,1 @@
+In this folder datastores for the CNN model are created. 
