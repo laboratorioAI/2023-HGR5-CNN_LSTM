@@ -1,0 +1,8 @@
+EMG-EPN-612 Dataset
+Datastores
+DatastoresLSTM
+Models/model*
+ModelsLSTM/model*
+response.json
+response.mat
+results-test-user*
